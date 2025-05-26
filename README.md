@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RH-SOFT-Backend<br>👯 I’m looking to collaborate on FULL-STACK projects, UI/UX design, and SaaS applications<br>🤝 I’m looking for help with scaling backend architectures and optimizing database performance<br>🌱 I’m currently learning advanced Node.js patterns, Agentic AI, Generative AI, Frontend Technologies <br>💬 Ask me about React, Generative AI , New Technologies ,UI/UX design,<br>⚡ Fun fact I can turn any static design into an interactive, dynamic web app!
+🔭 I’m currently learning new technologies as blender unity C# for AR VR Development<br>👯 I’m looking to collaborate on FULL-STACK projects, UI/UX design, and SaaS applications<br>🤝 I’m looking for help with scaling backend architectures and optimizing database performance<br>🌱 I’m currently learning advanced Node.js patterns, Agentic AI, Generative AI, Frontend Technologies <br>💬 Ask me about React, Generative AI , New Technologies ,UI/UX design,<br>⚡ Fun fact I can turn any static design into an interactive, dynamic web app!
 
 
 ## 🌐 Socials:
