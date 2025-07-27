@@ -8,11 +8,7 @@
 - 💬 Ask me about React, Generative AI, UI/UX, and modern web tech!
 - ⚡ Fun fact: I transform static designs into interactive, dynamic web apps.
 
-## 🌐 Socials
-
-[Portfolio](https://viraj179-portfolio.netlify.app/) | [Instagram](https://instagram.com/viraj___179) | [LinkedIn](https://www.linkedin.com/in/viraj-disale-techie)
-
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 - Languages: C, C++, Python, R, JavaScript, TypeScript
 - Frontend: React, Next.js,Vue.js,Redux, Chakra UI, Tailwind CSS, Bootstrap, Framer, Figma
@@ -20,3 +16,9 @@
 - Databases: MongoDB, MySQL, PostgreSQL, SQLite, Redis, Supabase, Prisma, Sequelize
 - DevOps/Hosting: AWS, Google Cloud, Firebase, Heroku, Netlify, Vercel, Render, VPS hosting
 - Other: Blender, Unity, OpenCV, Keras, TensorFlow, PyTorch, scikit-learn, Pandas, Numpy, Matplotlib
+  
+
+## 🌐 Socials
+
+[Portfolio](https://viraj179-portfolio.netlify.app/) 
+[LinkedIn](https://www.linkedin.com/in/viraj-disale-techie)
