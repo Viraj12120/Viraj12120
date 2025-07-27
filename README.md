@@ -10,13 +10,13 @@
 
 ## 🌐 Socials
 
-[Portfolio](https://www.behance.net/virajdisale) | [Instagram](https://instagram.com/viraj___179) | [LinkedIn](https://www.linkedin.com/in/viraj-disale-techie)
+[Portfolio](https://viraj179-portfolio.netlify.app/) | [Instagram](https://instagram.com/viraj___179) | [LinkedIn](https://www.linkedin.com/in/viraj-disale-techie)
 
 ## 💻 Tech Stack
 
 - Languages: C, C++, Python, R, JavaScript, TypeScript
-- Frontend: React, Next.js, Redux, Chakra UI, Tailwind CSS, Bootstrap, Framer, Figma
-- Backend: Node.js, Express, Django, FastAPI, GraphQL, Apollo, REST APIs
+- Frontend: React, Next.js,Vue.js,Redux, Chakra UI, Tailwind CSS, Bootstrap, Framer, Figma
+- Backend: Node.js, Express, Nest.js ,Django, FastAPI, GraphQL, Apollo, REST APIs,
 - Databases: MongoDB, MySQL, PostgreSQL, SQLite, Redis, Supabase, Prisma, Sequelize
-- DevOps/Hosting: AWS, Google Cloud, Firebase, Heroku, Netlify, Vercel, Render
+- DevOps/Hosting: AWS, Google Cloud, Firebase, Heroku, Netlify, Vercel, Render, VPS hosting
 - Other: Blender, Unity, OpenCV, Keras, TensorFlow, PyTorch, scikit-learn, Pandas, Numpy, Matplotlib
