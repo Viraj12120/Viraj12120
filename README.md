@@ -1,5 +1,3 @@
-Here’s a clean, well-structured GitHub profile intro without bullet points, using a different format for greater readability and modern flair:
-
 # 💫 About Me
 
 🎮 I am currently exploring Blender, Unity, and C# to dive into AR/VR development, while also building **Project99**—a jewelry mobile application powered by React Native, Node.js, Express, and Redis.
@@ -33,7 +31,6 @@ AWS, Google Cloud, Firebase, Heroku, Netlify, Vercel, Render, VPS hosting
 Blender, Unity, OpenCV, Keras, TensorFlow, PyTorch, scikit-learn, Pandas, Numpy, Matplotlib
 
 ## 🌐 Socials
-
 [Portfolio](https://viraj179-portfolio.netlify.app/)  
 [LinkedIn](https://www.linkedin.com/in/viraj-disale-techie)
 
