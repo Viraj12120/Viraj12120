@@ -1,12 +1,12 @@
 
 # 💫 About Me
 
-- 🔭 Currently exploring Blender, Unity, and C# for AR/VR development & Currently building Project99, a jewelry mobile app using React Native, Node.js, Express, and Redis.
-- 👯 Open to collaboration on full-stack projects, UI/UX design, and SaaS applications.
-- 🤝 Seeking advice on scaling backend architectures and database optimization.
-- 🌱 Learning advanced Node.js patterns, Agentic AI, Generative AI, and new frontend technologies.
-- 💬 Ask me about React, Generative AI, UI/UX, and modern web tech!
-- ⚡ Fun fact: I transform static designs into interactive, dynamic web apps.
+ 🔭 Currently exploring Blender, Unity, and C# for AR/VR development & Currently building Project99, a jewelry mobile app using React Native, Node.js, Express, and Redis.
+ 👯 Open to collaboration on full-stack projects, UI/UX design, and SaaS applications.
+ 🤝 Seeking advice on scaling backend architectures and database optimization.
+ 🌱 Learning advanced Node.js patterns, Agentic AI, Generative AI, and new frontend technologies.
+ 💬 Ask me about React, Generative AI, UI/UX, and modern web tech!
+ ⚡ Fun fact: I transform static designs into interactive, dynamic web apps.
 
 # 💻 Tech Stack
 
