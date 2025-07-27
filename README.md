@@ -1,8 +1,7 @@
-Here’s a **clean, simple GitHub profile intro** based on your content, without a GPRM footer or extra generation tags:
 
 # 💫 About Me
 
-- 🔭 Currently exploring Blender, Unity, and C# for AR/VR development.
+- 🔭 Currently exploring Blender, Unity, and C# for AR/VR development & Currently building Project99, a jewelry mobile app using React Native, Node.js, Express, and Redis.
 - 👯 Open to collaboration on full-stack projects, UI/UX design, and SaaS applications.
 - 🤝 Seeking advice on scaling backend architectures and database optimization.
 - 🌱 Learning advanced Node.js patterns, Agentic AI, Generative AI, and new frontend technologies.
@@ -11,7 +10,7 @@ Here’s a **clean, simple GitHub profile intro** based on your content, without
 
 ## 🌐 Socials
 
-[Behance](https://www.behance.net/virajdisale) | [Instagram](https://instagram.com/viraj___179) | [LinkedIn](https://www.linkedin.com/in/viraj-disale-techie)
+[Portfolio](https://www.behance.net/virajdisale) | [Instagram](https://instagram.com/viraj___179) | [LinkedIn](https://www.linkedin.com/in/viraj-disale-techie)
 
 ## 💻 Tech Stack
 
@@ -21,9 +20,3 @@ Here’s a **clean, simple GitHub profile intro** based on your content, without
 - Databases: MongoDB, MySQL, PostgreSQL, SQLite, Redis, Supabase, Prisma, Sequelize
 - DevOps/Hosting: AWS, Google Cloud, Firebase, Heroku, Netlify, Vercel, Render
 - Other: Blender, Unity, OpenCV, Keras, TensorFlow, PyTorch, scikit-learn, Pandas, Numpy, Matplotlib
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Viraj12120&theme=dark&hide_border=false&include_all_commits=true&count_private-readme-streak-stats.herokuapp.com/?user=Viraj12120&theme[](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj12120&theme=dark&hide_border=false&layout GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Viraj12120&theme=tokyonight&no-frame=true can further customize or trim sections for brevity. This version is professional, easy to maintain, and contains no GPRM or external generator mentions.
