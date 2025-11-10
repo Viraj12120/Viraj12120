@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎮 I am currently exploring Blender, Unity, and C# to dive into AR/VR development, while also building **Project99**—a jewelry mobile application powered by React Native, Node.js, Express, and Redis.
+🎮 I am currently exploring Blender, Unity, and C# to dive into AR/VR development, while also building **BILL MITR**—a jewelry mobile application powered by React Native, Node.js, Express, and Redis.
 
 🤝 Open to collaborating on full-stack projects, UI/UX design, and SaaS applications, I am always seeking advice on scaling backend architectures and optimizing database performance.
 
