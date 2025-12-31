@@ -1,27 +1,85 @@
-# 💫 About Me
 
-🎮 I am currently exploring Blender, Unity, and C# to dive into AR/VR development, while also building **BILL MITR**—a jewelry mobile application powered by React Native, Node.js, Express, and Redis.
+# 👋 Hi, I’m Viraj Disale
 
-🤝 Open to collaborating on full-stack projects, UI/UX design, and SaaS applications, I am always seeking advice on scaling backend architectures and optimizing database performance.
+Full Stack Developer | SaaS & Generative AI Enthusiast | UI/UX-Driven Engineer
 
-🌱 My current learning focus includes advanced Node.js patterns, Agentic AI, Generative AI, and the latest frontend technologies.
+---
 
-💬 If you want to chat about React, Generative AI, UI/UX, or modern web tech, just ask!
+## 💫 About Me
 
-⚡ Fun fact: I love turning static designs into interactive, dynamic web apps.
+I am a **Full Stack Developer** with experience building scalable web and SaaS applications, with a strong emphasis on clean UI/UX and backend reliability.
 
-# 💻 Tech Stack
+Currently, I am exploring **AR/VR development** using **Blender, Unity, and C#**, while deepening my understanding of **Generative AI and agentic systems** using **LangChain and LangGraph**.
 
-**Languages:**  C, C++, Python, R, JavaScript, TypeScript
+I am open to collaborating on **full-stack engineering, UI/UX-focused products, and SaaS platforms**, and I actively seek discussions around **scaling backend architectures, system design, and database optimization**.
 
-**Frontend:**  React, Next.js, Vue.js, Zustand ,Redux, Chakra UI, Tailwind CSS, Bootstrap, Ant Design
+My current learning focus includes **advanced Node.js patterns, Agentic AI workflows, Generative AI systems, and modern frontend technologies**.
 
-**Backend:**  Node.js, Express, Nest.js, Django, FastAPI, GraphQL, Apollo, REST APIs
+If you want to discuss **React, Generative AI, UI/UX engineering, or modern web technologies**, feel free to reach out.
 
-**Databases:**  MongoDB, MySQL, PostgreSQL, SQLite, Redis, Supabase, Prisma, Sequelize
+**Fun fact:** I enjoy transforming static designs into interactive, performance-optimized web applications.
 
-**DevOps/Hosting:**  AWS, Google Cloud, Firebase, Heroku, Netlify, Vercel, Render, VPS hosting
+---
 
-**Other Tools:**  Blender, Unity, OpenCV, Keras, TensorFlow, PyTorch, scikit-learn, Pandas, Numpy, Matplotlib
+## 💻 Tech Stack
+
+### 🧠 Languages
+
+* C, C++, Python, R
+* JavaScript, TypeScript
+
+### 🎨 Frontend
+
+* React, Next.js, Vue.js
+* Zustand, Redux
+* Tailwind CSS, Chakra UI, Ant Design, Bootstrap
+
+### ⚙️ Backend
+
+* Node.js, Express, NestJS
+* Django, FastAPI
+* GraphQL, Apollo, REST APIs
+
+### 🗄️ Databases & ORMs
+
+* MongoDB, MySQL, PostgreSQL, SQLite
+* Redis, Supabase
+* Prisma, Sequelize
+
+### ☁️ DevOps & Hosting
+
+* AWS, Google Cloud, Firebase
+* Vercel, Netlify, Render, Heroku
+* VPS Hosting, CI/CD Pipelines
+
+### 🤖 AI / ML & Other Tools
+
+* LangChain, LangGraph
+* OpenCV
+* TensorFlow, PyTorch, Keras
+* scikit-learn, Pandas, NumPy, Matplotlib
+* Blender, Unity
+
+---
+
+## 🚀 What I’m Working On
+
+* Building **SaaS platforms** with scalable backend architectures
+* Experimenting with **Agentic AI systems and LLM workflows**
+* Developing **mobile and web applications** with strong UX principles
+* Exploring **AR/VR experiences** using Unity and Blender
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m interested in collaborating on:
+
+* Full-stack web and SaaS products
+* Generative AI & agent-based systems
+* UI/UX-centric applications
+* Open-source tools and developer platforms
+
+If you have an idea or need help scaling a product, let’s connect.
 
 
