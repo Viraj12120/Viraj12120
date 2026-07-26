@@ -1,85 +1,118 @@
+# 👋 Hi, I'm Viraj Disale
 
-# 👋 Hi, I’m Viraj Disale
+**Full Stack Engineer • Product Builder • AI Engineer**
 
-Full Stack Developer | SaaS & Generative AI Enthusiast | UI/UX-Driven Engineer
-
----
-
-## 💫 About Me
-
-I am a **Full Stack Developer** with experience building scalable web and SaaS applications, with a strong emphasis on clean UI/UX and backend reliability.
-
-Currently, I am exploring **AR/VR development** using **Blender, Unity, and C#**, while deepening my understanding of **Generative AI and agentic systems** using **LangChain and LangGraph**.
-
-I am open to collaborating on **full-stack engineering, UI/UX-focused products, and SaaS platforms**, and I actively seek discussions around **scaling backend architectures, system design, and database optimization**.
-
-My current learning focus includes **advanced Node.js patterns, Agentic AI workflows, Generative AI systems, and modern frontend technologies**.
-
-If you want to discuss **React, Generative AI, UI/UX engineering, or modern web technologies**, feel free to reach out.
-
-**Fun fact:** I enjoy transforming static designs into interactive, performance-optimized web applications.
+I enjoy building software that solves real business problems through thoughtful design, scalable architecture, and intelligent automation. My focus is on creating products that are not only technically robust but also intuitive, reliable, and enjoyable to use.
 
 ---
 
-## 💻 Tech Stack
+## About Me
 
-### 🧠 Languages
+I'm a full-stack engineer passionate about turning complex ideas into simple, scalable products. I enjoy working across the entire development lifecycle—from designing user experiences and architecting backend systems to deploying production-ready applications.
 
-* C, C++, Python, R
-* JavaScript, TypeScript
+Rather than chasing frameworks, I focus on understanding problems deeply, identifying the right abstractions, and building solutions that remain maintainable as they grow. I believe great software comes from balancing engineering principles with empathy for the people using it.
 
-### 🎨 Frontend
-
-* React, Next.js, Vue.js
-* Zustand, Redux
-* Tailwind CSS, Chakra UI, Ant Design, Bootstrap
-
-### ⚙️ Backend
-
-* Node.js, Express, NestJS
-* Django, FastAPI
-* GraphQL, Apollo, REST APIs
-
-### 🗄️ Databases & ORMs
-
-* MongoDB, MySQL, PostgreSQL, SQLite
-* Redis, Supabase
-* Prisma, Sequelize
-
-### ☁️ DevOps & Hosting
-
-* AWS, Google Cloud, Firebase
-* Vercel, Netlify, Render, Heroku
-* VPS Hosting, CI/CD Pipelines
-
-### 🤖 AI / ML & Other Tools
-
-* LangChain, LangGraph
-* OpenCV
-* TensorFlow, PyTorch, Keras
-* scikit-learn, Pandas, NumPy, Matplotlib
-* Blender, Unity
+Lately, I've been exploring intelligent software systems powered by modern AI, building applications that can reason, automate repetitive workflows, and help users make better decisions.
 
 ---
 
-## 🚀 What I’m Working On
+## What I Enjoy Building
 
-* Building **SaaS platforms** with scalable backend architectures
-* Experimenting with **Agentic AI systems and LLM workflows**
-* Developing **mobile and web applications** with strong UX principles
-* Exploring **AR/VR experiences** using Unity and Blender
+- AI-powered products and intelligent workflows
+- Modern web applications with exceptional user experiences
+- High-performance frontend architectures
+- Scalable backend systems and APIs
+- Business automation platforms
+- Data-driven dashboards and analytics
+- Developer tools and productivity software
 
 ---
 
-## 🤝 Open to Collaboration
+## My Approach
 
-I’m interested in collaborating on:
+- Think before building.
+- Design systems, not just features.
+- Keep interfaces simple.
+- Optimize for maintainability.
+- Build products that people genuinely enjoy using.
 
-* Full-stack web and SaaS products
-* Generative AI & agent-based systems
-* UI/UX-centric applications
-* Open-source tools and developer platforms
+I care as much about performance, architecture, and code quality as I do about visual design and user experience.
 
-If you have an idea or need help scaling a product, let’s connect.
+---
 
+## Tech Stack
 
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- C++
+- SQL
+
+### Frontend
+
+- React
+- Next.js
+- Vue.js
+- Tailwind CSS
+- Zustand
+- Redux
+- Framer Motion
+- GSAP
+
+### Backend
+
+- Node.js
+- Express
+- NestJS
+- FastAPI
+- Django
+- GraphQL
+- REST APIs
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+- SQLite
+- Supabase
+
+### AI
+
+- OpenAI
+- LangChain
+- LangGraph
+- ChromaDB
+- Vector Search
+- RAG Applications
+
+### Tools
+
+- Docker
+- Git
+- Vercel
+- AWS
+- Firebase
+- Prisma
+- SQLAlchemy
+
+---
+
+## Currently Exploring
+
+- AI Agents & Autonomous Systems
+- Distributed System Design
+- Backend Performance Optimization
+- Modern Frontend Architecture
+- Product Design & Design Systems
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing software engineering, product development, AI, system design, performance optimization, or collaborating on ambitious ideas.
+
+> *"The best software doesn't just work—it quietly solves problems people didn't realize could disappear."*
